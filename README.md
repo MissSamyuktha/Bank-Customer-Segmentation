@@ -40,6 +40,8 @@ To identify distinct customer segments based on *spending patterns* and *past in
 - Validated with **Silhouette Score** for cluster quality.
 - Final model chosen with **k = 3 clusters.**
 
+![Final Clusters](https://github.com/MissSamyuktha/Bank-Customer-Segmentation/blob/main/Screenshot_20260105-232141.Chrome~2.png)
+
 ## Cluster Profiling
 ### Cluster 0 – Mid-tier Branch Loyalists (≈58.5%)
 - Moderate credit limits (~₹33k), ~5–6 cards.
